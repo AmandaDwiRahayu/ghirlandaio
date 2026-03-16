@@ -78,16 +78,19 @@
 #### - Perkembangan apa saja yang terjadi pada sains dan agama pada masa Yunani include Eropa.
 #### Perkembangan ilmu pengetahuan di Yunani sangatlah melegenda, ada banyak ilmu lahir disini, yang menjelaskan perkembangan IPTEK pada zaman Yunani kuno sangat berkembang juga. Konsep Pythagoras dan kontribusi ilmiah dari Archimedes dari bidang fisika dan mekanika. Berikut ini adalah perkembangan iptek pada zaman Yunani kuno : 
 #### A. *Filsafat Yunani kuno dan logika*.                                                                                            Yunani kuno dikenal sebagai tempat lahirnya filsafat barat. Para filsuf Yunani tidak hanya merenungkan tentang kehidupan dan alam semesta, tetapi juga mengembangkan metode berpikir yang mnjadi dasar bagi ilmu pengetahuan. Filsafat Yunani kuno terbagi ke dalam beberapa periode, yaitu periode pra Socrates, periode Sokrates, dan periode Helenistik.
+
 #### 1. *Periode pra Socrates*.    
 #### Filsuf pada periode ini lebih fokus pada memahami hakikat alam dan keberadaan dunia. Beberapa tokoh pentingnya adalah :    
 #### a. Thales dari Miletus (624-546 SM) yang diaggap sebagai filsuf pertama dan mengemukakan bahwa segala sesuatu berasal dari air.
 #### b. Heraclitus yang berpendapat bahwa segala sesuatu terus berubah (panta rhei).
 #### c. Parmenides yang menentang gagasan perubahan dan menyatakan bahwa realitas bersifat tetap. 
+
 #### 2. *Periode Sokrates, Plato, dan Aristoteles*.
 #### Periode ini dikenal sebagai puncak filsafat Yunani dengan tiga filsuf utamanya : 
 #### a. Sokrates (469-399 SM) : mengembangkan metode berpikir kritis yang dikenal sebagai Metode Dialektika, yaitu bertanya dan berdiskusi untuk mencari kebenaran.
 #### b. Plato (427-347 SM) : murid Socrates yang mendirikan akademi Athena dan mengembangkan teori Dunia Ide yang menyatakan bahwa dunia nyata hanyalah bayangan dari dunia yang lebih sempurna.
 #### c. Aristoteles (384-322 SM) : murid Plato yang menolak teori Dunia Ide dan lebih fokus pada pengamatan empiris serta mengembangkan logika formal yang menjadi dasar ilmu logika modern. 
+
 #### 3. *Periode Helenistik dan pengaruhnya*
 #### Setelah kematian Aristoteles, filsafat Yunani berkembang dalam berbagai aliran yang lebih praktis, seperti : 
 #### a. Stoikisme (Zeno dari Citium) : mengajarkan ketenangan dalam mengahadapi kehidupan.
@@ -116,13 +119,12 @@
 #### F. *Arsitektur dan Teknik Sipil*.
 #### Yunani kuno membangun kuil megah seperti Parthenon di Athena. Mereka mengembangkan teknik kolom doric, ionic, dan corinthian, yang masih digunakan dalam arsitektur modern. Teknik pembangunan saluran air dan sistem drainase memungkinkan kota kota Yunani berkembang pesat. 
 
-#### Kepercayaan Yunani kuno
 #### Kepercayaan Yunani kuno didasarkan pada Hellenime dan Politeisme. Hellenisme Raja Yunani kuno yang menaklukkan wilayah kekuasaannya akan memadukan budaya setempat dengan budaya bangsa Yunani sehingga menghasilkan sebuah ajaran baru. Ajaran aru tersebut kemudian lebih dikenal sebagai agama Hellenisme. Sedangkan, Politeisme sendiri yaitu menyembah banyak dewa dan dewi yang dipercaya mengendalikan berbagai aspek kehidupan manusia dan alam semesta. Sistem kepercayaan ini tidak hanya berisi mitologi yang kaya, tetapi juga menjadi dasar bagi budaya, seni, dan filsafat Yunani. 
 #### A. *Dewa dewa dalam mitologi Yunani*. 
 #### Orang Yunani kuno percaya pada para dewa yang tinggal di Gunung Olympus, dengan Zeus sebagai pemimpin para dewa. Beberapa dewa utama dalam mitologi Yunani adalah : 
-a. Zeus, raja para dewa, penguasa laut dan petir.
-b. Hera, ratu para dewa, dewi pernikahan dan keluarga.
-c. Hades, dewa dunia bawah dan kematian. 
+#### a. Zeus, raja para dewa, penguasa laut dan petir.
+#### b. Hera, ratu para dewa, dewi pernikahan dan keluarga.
+#### c. Hades, dewa dunia bawah dan kematian. 
 
 #### B. *Mitologi dan legenda*. 
 #### Mitologi Yunani dipenuhi dengan kisah kisah yang menggambarkan interaksi anatara para dewa dan manusia. Kisah seperti perang troya, legenda perseus, dan kisah hercules menjadi bagian penting dari bagian warisan budaya Yunani.
@@ -132,7 +134,7 @@ c. Hades, dewa dunia bawah dan kematian.
 
 #### D. *Ritual dan persembahan*. 
 #### Untuk mendapatkan berkah dari para dewa, orang Yunani sering melakukan persembahan, doa, dan festival keagamaan. Mereka menyembelih hewan, memberikan makanan, atau membangun kuil sebagai bentuk penghormatan kepada hewan mereka. 
-#### 
+#### Kepercayaan Yunani kuno memiliki pengaruh besar terhadap budaya dunia. Banyak konsep dalam filsafat, sastra, hingga astronomi yang terisnpirasi dari mitologi mereka. Selain itu, nama dewa dewi Yunani masih digunakan dalam berbagai bidang, seperti sibol dalam psikologi dan sains. 
 
 
 
