@@ -44,13 +44,19 @@ Materi wulan
 **3. Contoh Kasus Berdasarkan Pengalaman Pribadi**
 
 
-1. Saat saya berpergian ke suatu tempat yang sebenarnya sudah saya sering kunjungi, saya tetep membuka aplikasi peta seperti Google Maps di handphone. Padahal saya sudah cukup tahu dan hafal arah menuju lokasi tersebut. Namun, karena aplikasi dianggap memberikan rute yang paling cepat dan akurat, saya jadi lebih mempercayai teknologi tersebut dibandingkan insting saya sendiri.
+1. Saat saya berpergian ke suatu tempat yang sebenarnya sudah sering saya kunjungi, saya tetep membuka aplikasi peta seperti Google Maps di handphone. Padahal saya sudah cukup tahu dan hafal arah menuju lokasi tersebut. Namun, karena aplikasi sudah dianggap memberikan rute yang paling cepat dan akurat, saya jadi lebih mempercayai teknologi tersebut dibandingkan insting saya sendiri.
 
 2. Pengalaman yang saya alami adalah ketika mengunjungi sebuah restoran sunda yang sebelumnya saya temui di platform TikTok. Dalam video yang saya lihat, restoran tersebut tampak sangat menarik, estetik, dan menyajikan makanan yang terlihat nikmat dalam bentuk prasmanan, sehingga membentuk ekspektasi tinggi. Namun, ketika saya datang langsung, kondisi yang saya temui sangat berbeda, baik dari segi suasana maupun penyajian makanan yang terlihat biasa saja. Perbedaan ini menunjukkan bahwa apa yang saya anggap sebagai realitas sebelumnya sebenarnya hanyalah representasi yang telah dikurasi dan diedit oleh media. Dalam konteks ini, pengalaman tersebut mencerminkan hiperrealitas, di mana representasi yang dibentuk oleh teknologi justru terasa lebih nyata dan lebih meyakinkan daripada realitas yang sebenarnya.
 
 **4. Perbedaan antara Teknologi sebagai Mitos dan Teknologi sebagai Alat**
 
-Perkembangan teknologi di era sekarang mengalami perubahan yang cukup besar, tidak hanya sebagai alat bantu manusia tetapi juga sebagai kekuatan yang mampu merubah cara manusia memahami realitas. Dalam perspektif Homo Deus teknologi telah berkembang menjadi alat yang tidak hanya membantu aktivitas manusia, tetapi juga membantu mereka berpikir dan mengambil keputusan. Hal ini dapat di analisis melalui dua sudut pandang, yaitu teknologi sebagai mitos dan teknologi sebagai alat, yang memiliki perbedaan mendasar dalam hal posisi kendali dan tingkat kepercayaan manusia terhadap teknologi.
+Perkembangan teknologi di era sekarang mengalami perubahan yang cukup besar, tidak hanya sebagai alat bantu manusia tetapi juga sebagai kekuatan yang mampu merubah cara manusia memahami realitas atau kenyataan. Dalam perspektif Homo Deus teknologi telah berkembang menjadi alat yang tidak hanya membantu aktivitas manusia, tetapi juga membantu cara mereka berpikir dan mengambil keputusan. Hal ini dapat di analisis melalui dua sudut pandang, yaitu teknologi sebagai mitos dan teknologi sebagai alat, yang memiliki perbedaan mendasar dalam hal posisi kendali dan tingkat kepercayaan manusia terhadap teknologi.
+
+Dalam sudut pandang sebagai mitos, teknologi j fugsvbskjlbvsf
+
+Dalam sudut pandang teknologi sebagai alat, teknologi jbaffejja
+
+
 
 ## BAB 3 Penutup
 **1. Kesimpulan**
