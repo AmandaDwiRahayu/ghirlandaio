@@ -9,4 +9,6 @@ Perbedaan closed source dan open source dapat dianalogikan seperti resep masakan
  ## Kesimpulan
  Berdasarkan pembahasan, perbedaan closed source dan open source tidak hanya terletak pada akses kode, tetapi juga pada nilai dan ideologi di dalamnya. Closed source bersifat tertutup dan dikendalikan satu pihak, sedangkan open source terbuka dan memungkinkan kolaborasi.
 Menurut Weber (2004), keberhasilan open source didukung oleh komunitas dan motivasi non-ekonomi seperti reputasi dan kontribusi.
-Oleh karena itu, pilihan antara closed source dan open source bukan hanya persoalan teknis, tetapi menyangkut bagaimana pengetahuan disebarkan serta bagaimana hubungan sosial dalam masyarakat terbentuk
+Oleh karena itu, pilihan antara closed source dan open source bukan hanya persoalan teknis, tetapi menyangkut bagaimana pengetahuan disebarkan serta bagaimana hubungan sosial dalam masyarakat terbentuk.
+## Daftar Pustaka
+Weber, S. (2004). The Success of Open Source. Cambridge: Harvard University Press.
