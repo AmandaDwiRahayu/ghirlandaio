@@ -151,6 +151,51 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum kelima pada era modern termanifestasikan dalam dua dimensi: ekspansi fisik (gedung, koleksi dan staff) dan ekspasi non fisik (konsorsium, jaringan perpudtakaan). Gorman (1995) memberikan dimensi baru pada hukum kelima melalui hukum keempat: "Lindungi akses bebas terhadap pengetahuan" Ia menegaskan bahwa "Perpustakaan adalah arsip kolektif pencapaian manusia dan pengetahuan sepanjang masa" sehingga pertumbuhan perpustakaan bukan hanya soal koleksi fisik, tetapi juga soal tanggung jawab pelestarian pengetahuan jangka panjang. Gorman bahkan memperingatkan "Membiarkan catatan masa lalu menghilang merupakan sensor
 </p>
 
+#### **2.1.3. Era Digital**
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Era digital membawa trasformasi paling ekstrim dalam sejarah perpustakaan. Safii (2018) menjelaskan bahwa di era digital ini, dengan generasinya yang disebur Generasi Z yang memiliki karakteristik Phigital (hidup di dunia digital dan dunia fisik), hyper-custom, realistis dan DIY (do it your self), lima hukum Ranganathan perlu didefinisikan ulang dengan semangat yang sama seperti saat hukum tersebut dirumuskan.
+</p>
+
+##### **1. Books are for use; Information is for use**
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Pada era digital, hukum pertama berevolusi menjadi prinsip yang jauh lebih luas. Safii (2018) menegaskan bahwa dalam konsep buku di era digital. fokusnya bukan pada bentuk melainkan pada isi. Sehingga di era digital, kata "buku" tidak dapat menjadiciri perpustakaan, melainkan "informasi" adalahkata yang tepat karena produk informasi tidak hanya berupa buku. Nurozi (2004) juga menegaskan hal yang sama melalui hukum pertama Web-nya: "informasi tidak memiliki tujuan jika tidak dimanfaatkan dan setidaknya tersedia bagi orang-orang untuk mencoba mempelajarinya."
+</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Safii (2018) merumuskan ulang huku pertama menjadi "Informasi: fokus pada konten, bukan wadah" Redefinisi ini mencerminkan kenyataan bahwa pengguna di era digital tidak peduli dengan bentuk informasi, tetapi esensi informasi itu sendiri yang penting. Gerakan Open Access (OA) merupakkan perwujudan nyata dari semangat hukum pertama di era digital.
+</p>
+
+##### **2. Every Reader his book; Every user his infomation**
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Hukum kedua pada era digital berkembang menjadi prinsip keterlibatan pengguna yang lebih dalam. Safii (2018) merumuskan ulang hukum kedua dan ketiga Ranganathan menjadi "keterlibatan"(user engagement). Untuk menciptakan keterlibatan pengguna, perpustakaan harus mengevaluasi kepuasan pengguna terlebbih dahulu, melakukan studi awal tentang efektifitas, efektivitas pengguna, upaya pengguna, dan karakteristik  pengguna.
+</p>
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Nurozi (2004) menegaskan melaluihukum keduan Web-nya bahwa Webmaster dan pengelola informasi "harus mengenal penggunanya dengan baik jika ingin menyediakanmateri yang mereka butuhkan." Sebuah situs atau sistem informasi harus mengandung sumber daya yang sesuai dengan keutuhan semua penggunanya. Pada era digital inklusivitas ini juga menyentuh isu kesenjangan digital )digital divide). Perpustakaan hadir sebagai jembatan bagi merreka yang tidak memiliki akses interner atau perangkat digital.
+</p>
+
+##### **3. Every book its reader; EveryPiece of information its user**
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Hukum ketiga pada era digital mendapatkan dimensi baru yang luar biasa. Safii (2018) mencatat bahwa di era digital, perpustakaan harus menyediakan ruang bagi pengunjung agar mereka merasa nyaman dalam mengakses koleksi, konsep yang disebut "Learning Commons." Burozi (2004) menegaskan bahwa hukum ketiga adalah "yang paling masuk akal, namun sering dilanggar" setiap pengguna memiliki sumber daya informasi yang tersedia, dan sumber daya tersebut harus di jelaskan dengan baik, diindeks di mesin pencaria, tampilkan secara menarik, dan mudah diakses. Konsep Linked open data (LOD) dalam dunia perpustakaan, yang memungkinkan data bibliografi saling terhubung dan ditemukan melalui berbagai jalur penelusruan, merupakan perwujudan tertinggi hukum ketiga di era digital.
+</p>
+
+##### **4. Save the Time of the Reader; Save the Time of user**
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; pada era digital, hukum keempat berevolusi menjadi imperatif desain pengalaman pengguna. Nurozi (2004) menegaskan bahwa hukum keepat "memiliki kompenen Front-end (pastikan orang dapat dengan cepat menemukan apa yang mereka cari) dan komponen back-end (pastikan data terstruktur sedemikian rupa sehingga informasi dapat diakses dengan cepat)"
+</p>
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Safii (2018) merumuskan ulang hukum keempat sebagai "Analisis kuantitatid Informasi" Di era digital, pengukuran kuantitatif sangat penting karena sifat Generasi Z yang selalu berpikir secara rasional. Dalam studi perpustakaan dan ilmu informasi, analisis kuantitatif dapat berupa bibliometrik, altimetrik, dan scientometrix. Discovery system seperti Primo, Summon, dan EBSCO Discovery Service adalah ekspresi praktis hukum keempat di era digital.
+</p>
+
+##### **5.The Library is a growing organism; An Evolving Ecosystem**
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Hukum kelima, yang sudah visioner sejak dirumuskan pada 1931, kini menemukan resonasinya yang paling kuar di era digital. Safii (2018) merumuskan ulang hukum kelima sebagai 'pembelajaran bersama (online dan Offline) "Menurutnya, tidak seharusnya ada perbedaan antara perpustakaan di dunia nyata dan dunia digital. Jika ada pustakawan yang dapat berinteraksi di gedung perpustakaan, maka seharusnya juga ada pustakawan yang dapat berinteraksi secara daring.
+</p>
+
+<p aligm="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Nurozi (2004) menegaskan bahwa Web, seperti perpustakaan adalah organisme yang tumbuh: "web tumbuh dan berubah dan akan terus melakuknya. Perubahan dan pertumbuhan berjalan beriringan, dan memerlukan fleksibilitas dalam pengelolaan koleksi." Hukum Kelima mengakui bahwa pertumbuhan pasti akan terjadi direncanakan secara sistematis. Perpustakaan era digitak telah berevolusi menjadi ekosistem informasi yang mencakup koleksi fisik dan digital layanan in person dan virtual.
+</p>
+
 
 
 
