@@ -20,3 +20,10 @@ Segala puji bagi Allah SWT yang telah memberikan kami kemudahan sehingga kami da
  Penulis juga mengucapkan terimakasih kepada dosen pengampu Bapak Al Muhdil Karim S.IP., M.Hum.
  Demikian, semoga makalah ini dapat bermanfaat, Terimakasih.
 
+# Tujuan
+1. Untuk mengetahui dan menjelaskan 5 hukum perpustakaan.
+2. Untuk menelaah serta menjelaskan konsep cyberethic dan hubunganya dengan perpustakaan digital.
+3. Untuk menjelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
+4. Untuk menganalisis memaparkan resiko keamanan perpustakaan dan arsip digital berdasarkan data historis.
+5. Untuk menelaah dan menjelaskan vektor dasar keamanan siber bagi perpustakaan digital atau arsip digital.
+6. Untuk menjelaskan faktor yang harus dikembangkan dan ditingkatkan dalam bagi perpustakaan dan arsip digital.
