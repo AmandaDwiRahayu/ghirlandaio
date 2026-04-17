@@ -21,15 +21,18 @@ Data koleksi adalah data yang berkaitan dengan bahan pustaka digital seperti e-b
 Data administratif merupakan data yang digunakan untuk mengelola sistem perpustakaan digital seperti data petugas, pengaturan sistem, dan hak akses pengguna. Data ini memiliki tingkat sensitivitas tinggi karena berhubungan langsung dengan kontrol sistem. Ancaman yang dapat terjadi meliputi akses ilegal, manipulasi data serta gangguan terhadao sistem. Jika data ini tidak diamankan dengan baik, dampaknya bisa sangat besar, seperti kerusakan sistem dan hilangnya kontrol terhadap layanan perpustakaan digital.
 
 ### Kesimpulan
+Perkembangan teknologi informasi telah mendorong perubahan perpustakaan menjadi perpustakaan digital yang memberikan kemudahan akses informasi secara cepat dan efisien. Dalam sistem ini, data menjadi komponen utama yang sangat penting karena mendukung seluruh layanan, mulai dari koleksi digital, data pengguna, hingga pengelolaan sistem. 
+Setiap jenis data dalam perpustakaan digital memiliki tingkat sensitivitas yang berbeda, yaitu data pengguna dan administratif yang bersifat sangat sensitif, serta data koleksi yang memiliki sensitivitas sedang. Perbedaan ini menunjukan bahwa perlindungan data tidak dapat disamakan, melainkan harus disesuaikan dengan tingkat kerahasiaannya.
+Jika tidak dilindungi dengan baik, akan menimbulkan berbagai dampak seperti kebocoran data, pencurian identitas, penyalahgunaan informasi, gangguan sistem, bahkan menurunnya kepercayaan pengguna terhadap perpustakaan digital. Oleh karena itu, diperlukan sistem keamanan yang baik, seperti enkripsi, pembatas akses dan pengelolaan yang tepat agar keamanan data tetap terjaga dan layanan perpustakaan digital dapat berjalan secara optimal
 
 ## Daftar Pustaka
 
-Mengenal Perpustakaan Digital
+#### Mengenal Perpustakaan Digital
 
 https://digilib.uin-suka.ac.id/id/eprint/37083/
 
-Perpustakaan digital, koleksi digital dan undang-undang hak cipta
+#### Perpustakaan digital, koleksi digital dan undang-undang hak cipta
 https://jurnal.uin-antasari.ac.id/index.php/pustakakarya/article/view/5132
 
-Strategi Menjaga Keamanan Data dalam Sistem Perpustakaan Digital
+#### Strategi Menjaga Keamanan Data dalam Sistem Perpustakaan Digital
 https://garuda.kemdiktisaintek.go.id/documents/detail/5813206
